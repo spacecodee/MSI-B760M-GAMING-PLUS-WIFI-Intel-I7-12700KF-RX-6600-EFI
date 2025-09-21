@@ -1251,7 +1251,7 @@
 				<key>bluetoothInternalControllerInfo</key>
 				<data>AAAAAAAAAAAAAAAAAAA=</data>
 				<key>boot-args</key>
-				<string>agdpmod=pikera ctrsmt=full</string>
+				<string>agdpmod=pikera ctrsmt=full -lilubetaall</string>
 				<key>csr-active-config</key>
 				<data>AwgAAA==</data>
 				<key>prev-lang:kbd</key>
